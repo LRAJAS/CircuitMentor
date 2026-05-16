@@ -351,6 +351,5 @@ Base model subject to [Meta's Llama license](https://huggingface.co/meta-llama/M
 
 **Built by Rajas L · April 2026**
 
-*Built with sleepless nights, power cuts, and a lot of patience* 🔌⚡
 
 </div>
